@@ -8,3 +8,4 @@
 - [Эльвира Смирнова](https://github.com/ElviraSmirnovaa)
 - [Артем Сидельников](https://github.com/KingLucky13)
 - [Алексей Александров](https://github.com/AleksandrovAleksey)
+
